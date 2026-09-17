@@ -136,7 +136,7 @@ export const EVIDENCE: EvidenceItem[] = [
     caseId: 'c02',
     integrity: 'VERIFIED',
     summary:
-      'Registrar filing listing a sole director, with correspondence routed to a mailbox controlled by an individual holding no declared role in the company.',
+      'Registrar filing listing a sole director, with correspondence routed to a mailbox controlled by an individual holding no declared in the company.',
     fields: {
       Company: 'Apex Holdings',
       'Incorporated on': '18 May 2026',
