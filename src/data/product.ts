@@ -1,5 +1,8 @@
 export const PRODUCT_NAME = 'SENTINELX';
-export const PRODUCT_TAGLINE = 'Network Intelligence & Investigation Platform';
+
+export const PRODUCT_TAGLINE =
+  'Network Intelligence & Investigation Platform';
+
 export const TEAM_NAME = 'SENTINELX';
 
 export const SIH_INFO = {
@@ -9,14 +12,13 @@ export const SIH_INFO = {
   theme: 'Cybersecurity & Blockchain',
 };
 
-/** Replace these placeholders with the real team roster before presenting. */
-export const TEAM_MEMBERS: { name: string; }[] = [
-  { name: '[Aaron B Thomas]' },
-  { name: '[Samuel Thomas Daniel]' },
-  { name: '[Benett Philip John]' },
-  { name: '[Crista Benson]' },
-  { name: '[Aaradhita Bhalla]' },
-  { name: '[Clinto Charly]' },
+export const TEAM_MEMBERS: { name: string }[] = [
+  { name: 'Aaron B Thomas' },
+  { name: 'Samuel Thomas Daniel' },
+  { name: 'Benett Philip John' },
+  { name: 'Crista Elsa Benson' },
+  { name: 'Aaradhita Bhalla' },
+  { name: 'Clinto Charly' },
 ];
 
 export const TECH_STACK = [
