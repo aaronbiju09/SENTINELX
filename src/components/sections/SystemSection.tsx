@@ -109,7 +109,6 @@ export function SystemSection() {
               {TEAM_MEMBERS.map((m, i) => (
                 <div key={i} className="border border-dashed border-edge px-2 py-1.5">
                   <p className="truncate text-[11px] text-steel-400">{m.name}</p>
-                  <p className="tech truncate text-[8px] text-steel-700">{m.role}</p>
                 </div>
               ))}
             </div>
