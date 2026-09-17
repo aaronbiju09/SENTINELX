@@ -10,13 +10,13 @@ export const SIH_INFO = {
 };
 
 /** Replace these placeholders with the real team roster before presenting. */
-export const TEAM_MEMBERS: { name: string; role: string }[] = [
-  { name: '[Team member name]', role: '[Role]' },
-  { name: '[Team member name]', role: '[Role]' },
-  { name: '[Team member name]', role: '[Role]' },
-  { name: '[Team member name]', role: '[Role]' },
-  { name: '[Team member name]', role: '[Role]' },
-  { name: '[Team member name]', role: '[Role]' },
+export const TEAM_MEMBERS: { name: string; }[] = [
+  { name: '[Aaron B Thomas]' },
+  { name: '[Samuel Thomas Daniel]' },
+  { name: '[Benett Philip John]' },
+  { name: '[Crista Benson]' },
+  { name: '[Aaradhita Bhalla]' },
+  { name: '[Clinto Charly]' },
 ];
 
 export const TECH_STACK = [
